@@ -5,5 +5,6 @@ namespace MyTodo.Models
     public int Id { get; set; }
     public string? Title { get; set; }
     public bool Done { get; set; }
+    public DateTime date { get; set; } = DateTime.Now;
   }  
 }

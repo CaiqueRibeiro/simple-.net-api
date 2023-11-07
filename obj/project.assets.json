@@ -1270,11 +1270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/caique/cursos/csharp/Todo/Todo.csproj",
+      "projectUniqueName": "/home/caique/cursos/csharp/MyTodo/Todo.csproj",
       "projectName": "Todo",
-      "projectPath": "/home/caique/cursos/csharp/Todo/Todo.csproj",
+      "projectPath": "/home/caique/cursos/csharp/MyTodo/Todo.csproj",
       "packagesPath": "/home/caique/.nuget/packages/",
-      "outputPath": "/home/caique/cursos/csharp/Todo/obj/",
+      "outputPath": "/home/caique/cursos/csharp/MyTodo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/caique/.nuget/NuGet/NuGet.Config"

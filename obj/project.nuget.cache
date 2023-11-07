@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NcunwCYceG+Bj/KCtQ/fTnI36sr3BOPW1vYO5v6lw4l/pnBwbIWRMyDGX+IrP5bLuOtnoSmN6g3Yta9IF2bxgQ==",
+  "dgSpecHash": "4P4GURwODTWR0OqpmBg7yb/qsJfjyyJUbnqGXNmiyhH/HgmpDPZ6yJtPrmTVb8JGT+shBGQsP/mhwjm6CcFXCw==",
   "success": true,
-  "projectFilePath": "/home/caique/cursos/csharp/Todo/Todo.csproj",
+  "projectFilePath": "/home/caique/cursos/csharp/MyTodo/Todo.csproj",
   "expectedPackageFiles": [
     "/home/caique/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/caique/.nuget/packages/microsoft.data.sqlite.core/7.0.13/microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
